@@ -1,6 +1,6 @@
 # Libmapper Midi Processor
 
-This utility script reads incoming MIDI messages and provide statistics about that information as outgoing [libmapper signals](https://github.com/libmapper/libmapper) .
+This utility script reads incoming MIDI messages and provide statistics about that information as outgoing [libmapper](https://github.com/libmapper/libmapper) signals.
 
 ## Avaliable Signals
 
